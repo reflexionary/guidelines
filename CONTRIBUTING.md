@@ -10,7 +10,7 @@ Welcome, Reflexionary team member! We're building the AI financial co-pilot that
 
 This guide outlines our internal development practices to ensure smooth collaboration and efficient progress on Tacit.
 
-###Initial Setup
+### Initial Setup
 
 - **Set up Your Environment:**
 
